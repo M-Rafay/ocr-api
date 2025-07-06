@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gunicorn
+easyocr
+opencv-python
+pymupdf
+sqlalchemy
+python-multipart
+requests
+pytest 
